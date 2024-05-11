@@ -1,3 +1,6 @@
-- tags::#[[🗺️lang]]
+public:: true
+tags:: [[🗺️lang]]
+
+-
 - [[🗺️lang]]
 -
